@@ -1,2 +1,9 @@
 # hello_world_dotnet
-hello world console app ion .net lts
+
+Simple Hello World console app in C# using .NET 10.
+
+## Run
+
+```bash
+dotnet run
+```

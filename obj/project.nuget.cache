@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "puC7ZOH95hs=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/hello_world_dotnet/hello_world_dotnet/hello_world_dotnet.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-56c831d55b4c9cab/dbs/csharp/working/packages/microsoft.netcore.app.ref/10.0.11/microsoft.netcore.app.ref.10.0.11.nupkg.sha512",
+    "/tmp/codeql-scratch-56c831d55b4c9cab/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512",
+    "/tmp/codeql-scratch-56c831d55b4c9cab/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/10.0.11/microsoft.netcore.app.host.linux-x64.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
